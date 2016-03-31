@@ -1,11 +1,12 @@
 # GUI-Project
-Description
+
+Description:
 
 
-Technologies
+Technologies:
 
 
-Screenshots
+Screenshots:
 
 
 Installation Instructions:
