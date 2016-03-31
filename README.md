@@ -1,2 +1,27 @@
 # GUI-Project
-This is my Project for CST 238.
+Description
+
+
+Technologies
+
+
+Screenshots
+
+
+Installation Instructions:
+
+
+Contribution Guidelines:
+
+
+Bugs:
+
+
+Contributor List:
+
+
+Inspiration:
+
+
+License:
+
