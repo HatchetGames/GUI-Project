@@ -1,28 +1,27 @@
 # GUI-Project
 
-Description:
+<b>Description:</b>
 
 
-Technologies:
+<b>Technologies:</b>
 
 
-Screenshots:
+<b>Screenshots:</b>
 
 
-Installation Instructions:
+<b>Installation Instructions:</b>
 
 
-Contribution Guidelines:
+<b>Contribution Guidelines:</b>
 
 
-Bugs:
+<b>Bugs:</b>
 
 
-Contributor List:
+<b>Contributor List:</b>
 
 
-Inspiration:
+<b>Inspiration:</b>
 
 
-License:
-
+<b>License:</b>
