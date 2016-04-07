@@ -1,6 +1,9 @@
 # RPG Game
 (Name in progress)
 
+<b>Logo:</b>
+None Yet.
+
 <b>Description:</b>
 This will be an RPG game where you play as a character and explore a world filled with quests, NPC's and more. Your ultimate goal is to save a princess, who is trapped in a castle by an evil boss.
 
@@ -10,7 +13,9 @@ Unity3d Technologies. (C#)
 <b>Screenshots:</b>
 Disclaimer: These are screenshots of Nintendo's Legend of Zelda: A Link to the Past, and not of the actual game. These are here to show you conceptually how this game will look.
 
-
+![alt tag](https://i.ytimg.com/vi/w5REmtunJtY/maxresdefault.jpg)
+![alt tag](http://umlconnector.com/wp-content/uploads/34385-Legend_of_Zelda_The_-_A_Link_to_the_Past_USA-10.jpg)
+![alt tag](http://199.101.98.242/media/images/34385-Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)-30.jpg)
 
 <b>Installation Instructions:</b>
 Install Unity 5.3
