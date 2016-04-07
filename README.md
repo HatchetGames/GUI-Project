@@ -1,4 +1,4 @@
-# GUI-Project
+# GUI Project
 
 <b>Description:</b>
 
