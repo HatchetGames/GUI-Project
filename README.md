@@ -1,5 +1,4 @@
-# RPG Game
-(Name in progress)
+# Arcadia
 
 <b>Logo:</b>
 None Yet.
@@ -11,11 +10,11 @@ This will be an RPG game where you play as a character and explore a world fille
 Unity3d Technologies. (C#)
 
 <b>Screenshots:</b>
-Disclaimer: These are screenshots of Nintendo's Legend of Zelda: A Link to the Past, and not of the actual game. These are here to show you conceptually how this game will look.
+Game is still in a very early state and is not yet finished.
 
-![alt tag](https://i.ytimg.com/vi/w5REmtunJtY/maxresdefault.jpg)
-![alt tag](http://umlconnector.com/wp-content/uploads/34385-Legend_of_Zelda_The_-_A_Link_to_the_Past_USA-10.jpg)
-![alt tag](http://199.101.98.242/media/images/34385-Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)-30.jpg)
+![alt tag](http://i.imgur.com/Vy9pQNU.png)
+![alt tag](http://i.imgur.com/BelmSsz.png)
+![alt tag](http://i.imgur.com/zmvJVJG.png)
 
 <b>Installation Instructions:</b>
 Install Unity 5.3
