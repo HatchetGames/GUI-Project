@@ -12,14 +12,29 @@ Unity3d Technologies. (C#)
 <b>Screenshots:</b>
 Game is still in a very early state and is not yet finished.
 
-![alt tag](http://i.imgur.com/Vy9pQNU.png)
-![alt tag](http://i.imgur.com/BelmSsz.png)
-![alt tag](http://i.imgur.com/zmvJVJG.png)
+Title Screen
+![alt tag](http://i.imgur.com/uk6sdhZ.png)
+
+Options Menu
+![alt tag](http://i.imgur.com/XBnsRSM.png)
+
+Controls Menu
+![alt tag](http://i.imgur.com/uk6sdhZ.png)
+
+Inside the House
+![alt tag](http://i.imgur.com/VWtgSQD.png)
+
+Outside the House
+![alt tag](http://i.imgur.com/yqB8S9b.png)
+
+Road Leading West
+![alt tag](http://i.imgur.com/DHzXqYM.png)
 
 <b>Installation Instructions:</b>
-Install Unity 5.3
-Download the game.
-Run the game.
+Download the .zip file
+Pull out the folder inside the .zip.
+Go inside the folder and run the .exe.
+
 
 <b>Contribution Guidelines:</b>
 
