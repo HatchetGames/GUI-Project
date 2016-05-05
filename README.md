@@ -19,7 +19,7 @@ Options Menu
 ![alt tag](http://i.imgur.com/XBnsRSM.png)
 
 Controls Menu
-![alt tag](http://i.imgur.com/uk6sdhZ.png)
+![alt tag](http://i.imgur.com/EYM7QKT.png)
 
 Inside the House
 ![alt tag](http://i.imgur.com/VWtgSQD.png)
