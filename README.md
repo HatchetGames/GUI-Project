@@ -39,10 +39,16 @@ Run in Unity.
 
 
 <b>Contribution Guidelines:</b>
-
+None so far.
 
 <b>Bugs:</b>
-None.
+Player's weapon does not line up properly and is in a weird position.
+
+<b>To Do List:</b>
+Fix the player's weapon.
+Add more enemies.
+Clean up maps.
+Create an installer.
 
 <b>Contributor List:</b>
 None.
