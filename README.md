@@ -31,7 +31,7 @@ Road Leading West
 ![alt tag](http://i.imgur.com/DHzXqYM.png)
 
 <b>Installation Instructions:</b>
-Download the Installer./n
+Download the Installer.
 
 Run the installer and run the .exe file in the new folder.
 
