@@ -31,11 +31,9 @@ Road Leading West
 ![alt tag](http://i.imgur.com/DHzXqYM.png)
 
 <b>Installation Instructions:</b>
-Download newest version of Unity.
+Download the Installer./n
 
-Clone the repository.
-
-Run in Unity.
+Run the installer and run the .exe file in the new folder.
 
 
 <b>Contribution Guidelines:</b>
