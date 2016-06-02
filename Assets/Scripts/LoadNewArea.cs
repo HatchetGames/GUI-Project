@@ -10,6 +10,10 @@ public class LoadNewArea : MonoBehaviour {
 
     private PlayerController thePlayer;
 
+    private AudioSource levelMusic;
+
+    public string songName;
+
     void Start()
     {
         thePlayer = FindObjectOfType<PlayerController>();
