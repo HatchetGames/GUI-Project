@@ -35,9 +35,11 @@ Road Leading West
 
 <b>Installation Instructions:</b>
 
-Download the Installer.
+Download the Installer, it is called Setup.iss
 
-Run the installer and run the .exe file in the new folder.
+Run the installer.
+
+Once installation is finished, locate the new folder and run the .exe file and enjoy!
 
 
 <b>Contribution Guidelines:</b>
